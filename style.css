@@ -1,0 +1,44 @@
+body {
+    background: blueviolet;
+    font: normal 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+header {
+    color: white;
+    text-align: center;
+    margin-top: 8rem;
+}
+
+section {
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 1rem;
+    padding: 1rem;
+    width: 31.25rem;
+    margin:auto;
+    box-shadow: 1cqw 1rem 1rem rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    border: solid 0.2rem white;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+img {
+    height: 20rem;
+    width: 20rem;
+}
+
+div {
+    color: white;
+    font-size: 1.5rem;
+}
